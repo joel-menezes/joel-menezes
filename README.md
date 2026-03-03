@@ -1,4 +1,3 @@
-## Hi there 👋
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Joel_M77?theme=nord&font=Crimson%20Text&ext=heatmap)
 <!--
 **joel-menezes/joel-menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
